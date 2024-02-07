@@ -14,6 +14,13 @@ JARVIS is a Python-based voice assistant program that can perform various tasks 
 - **Retrieve Information**: Get information about a person using Wikipedia.
 - **Entertainment**: Sing a song or suggest a massage for boredom relief.
 
+how to install packages
+
+-open the terminal or cmd in your desktop
+-if cmd use cd 'your file path'
+-then type ""pip install SpeechRecognition pyttsx3 pywhatkit wikipedia""
+to install the necessary packages
+-make sure all your packages are updated versions.
 
 ##how to use the assistant
 
